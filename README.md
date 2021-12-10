@@ -12,6 +12,3 @@ Well, I'm running out of ideas. So If you have some ideas that you want to sugge
 
 ## Note
 Don't request to much on Discord's API because your account might get limited.
-
-## License
-MIT © I2rys
